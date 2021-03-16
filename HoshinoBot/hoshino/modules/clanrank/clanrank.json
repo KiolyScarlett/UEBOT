@@ -1,0 +1,42 @@
+{
+    "1060944060": {
+        "clanName": "魔女之旅",
+        "leaderName": "夜#",
+        "leaderId": 1215971704380,
+        "lastQuery": {
+            "code": 0,
+            "msg": "",
+            "data": [
+                {
+                    "rank": 359,
+                    "damage": 2680534986,
+                    "clan_name": "魔女之旅",
+                    "leader_name": "夜#",
+                    "leader_viewer_id": 1215971704380
+                }
+            ],
+            "ts": 1615735806,
+            "full": 0
+        }
+    },
+    "1095137598": {
+        "clanName": "魔女之旅",
+        "leaderName": "夜#",
+        "leaderId": 1215971704380,
+        "lastQuery": {
+            "code": 0,
+            "msg": "",
+            "data": [
+                {
+                    "rank": 419,
+                    "damage": 1190918951,
+                    "clan_name": "魔女之旅",
+                    "leader_name": "夜#",
+                    "leader_viewer_id": 1215971704380
+                }
+            ],
+            "ts": 1615505406,
+            "full": 0
+        }
+    }
+}
