@@ -1,0 +1,11 @@
+# Config Files
+*.jar
+*.exe
+data/
+gocqhttp/
+gocqhttp0.9.36/
+mirai/
+temp/
+
+# Django stuff:
+*.log
